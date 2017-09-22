@@ -20,5 +20,6 @@ box-sizing: inherit;
 }
 
 footer {
+  position: fixed;
   padding: 5%;
 }
