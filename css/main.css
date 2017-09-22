@@ -14,7 +14,9 @@ text-decoration-color: #FFFF00;
   text-decoration-color: #FFFF00;
 }
 
-
+p {
+  text-decoration-color: #FFFF00;
+}
 
 *, *:before, *:after {
 box-sizing: inherit;
