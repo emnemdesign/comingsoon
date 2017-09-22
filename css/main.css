@@ -23,7 +23,7 @@ footer {
   padding: 5%;
 }
 
-@media only screen and (min-width: 82.4em) {
+@media only screen and (min-width: 44.4em) {
 
   footer {
     text-align: center;
