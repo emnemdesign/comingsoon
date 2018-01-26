@@ -30,4 +30,12 @@ footer {
   footer {
     text-align: center;
   }
+
+  html {
+    text-align: center;
+  }
+
+  .icon {
+    width: 36px;
+  }
 }
