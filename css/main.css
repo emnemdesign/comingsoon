@@ -17,19 +17,15 @@ box-sizing: inherit;
 
 .icon {
   display: inline-block;
-  padding: 5%;
   width: 35px;
   text-align: center;
 }
 footer {
   padding: 5%;
+  text-align: center;
 }
 
 @media only screen and (min-width: 44.4em) {
-
-  footer {
-    text-align: center;
-  }
 
   html {
     text-align: center;
