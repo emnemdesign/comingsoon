@@ -5,12 +5,9 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  font-family: 'Open Sans', sans-serif;
-}
-
-h1 {
   font-family: 'Oxygen', sans-serif;
 }
+
 .logo {
   width: 100px;
 }
