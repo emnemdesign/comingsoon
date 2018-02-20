@@ -6,9 +6,11 @@
 
 html {
   font-family: 'Roboto', sans-serif;
-  font-family: 'Oxygen', sans-serif;
 }
 
+h1 {
+  font-family: 'Oxygen', sans-serif;
+}
 .logo {
   width: 100px;
 }
